@@ -112,6 +112,6 @@ If you have any suggestions or improvements, feel free to fork the repository an
 
 ## Contact
 
-For any questions or inquiries, please contact [Fozia Yimer](yimerfozia41@gmail.com ).
+For any questions or inquiries, please contact [Vincent Favour](https://www.linkedin.com/in/vincent-favour-297433205/).
 
 ---
